@@ -1,3 +1,6 @@
+# ARCHIVED
+No longer needed, just run the launcher via faugus or similar software. 
+
 # OGBG Installer for Linux
 
 This script automates the installation and setup of [OG:BG](https://discord.gg/N9EkDmeQCm) on Linux
